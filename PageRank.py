@@ -1,5 +1,3 @@
-"Introduction to Informatics"
-"HW7-3"
 "PageRank analysis of graph structure. "
 "Created by Dengke Liu"
 "5/1/2015"
